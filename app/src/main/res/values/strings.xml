@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="hint1">Amount of currency to convert</string>
+    <string name="hint2">Converted amount</string>
+    <string name="USDtoYEN">Convert Dollars to Japanese</string>
+    <string name="YENtoUSD">Convert Yen to American</string>
+    <string name="btn_convert">Convert Currency</string>
+</resources>
